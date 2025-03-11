@@ -1,0 +1,28 @@
+# .gitignore
+
+# Node modules directory
+/node_modules/
+
+# React Native build output
+/android/
+/ios/
+
+# MacOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Expo related files (if using Expo)
+.expo/
+.expo-shared/
+
+# Environment files to keep your API key safe
+.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Debugging files
+*.vscode/
